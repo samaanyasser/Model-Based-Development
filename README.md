@@ -88,11 +88,3 @@ This diploma gives you practical tools and a complete workflow to simulate, test
 🎓 [Model-Based Design Diploma on Udemy – OS Academy](https://www.udemy.com/user/os-academy/)
 
 ---
-
-## 🤝 Credits
-
-- **Instructor:** OS Academy  
-- **Student:** Abdullah Mohamed  
-- **Repository Maintained By:** [Abdullah Mohamed](https://github.com/AbdallahMohamedd)
-
----
